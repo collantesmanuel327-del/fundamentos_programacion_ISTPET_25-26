@@ -5,3 +5,5 @@ Manuel Alejandro Collantes Chávez, 1er semestre, Desarrollo de software
 **Manuel Collantes**  
 Carrera: [Desarrollo en Software]
 Repositorio con ejercicios y apuntes de la asignatura Fundamentos de Programación (curso 2025–2026).
+“Actualización README.md”
+“Creación del repositorio 2”
