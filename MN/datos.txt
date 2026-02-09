@@ -1,0 +1,2 @@
+Hola, este es un archivo de texto.
+Ejemplo de escritura de archivos en Java.
